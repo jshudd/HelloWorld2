@@ -1,0 +1,15 @@
+Z:\Desktop\repos\csharp33\HelloWorld\HelloWorld\bin\Debug\net7.0\HelloWorld.exe
+Z:\Desktop\repos\csharp33\HelloWorld\HelloWorld\bin\Debug\net7.0\HelloWorld.deps.json
+Z:\Desktop\repos\csharp33\HelloWorld\HelloWorld\bin\Debug\net7.0\HelloWorld.runtimeconfig.json
+Z:\Desktop\repos\csharp33\HelloWorld\HelloWorld\bin\Debug\net7.0\HelloWorld.dll
+Z:\Desktop\repos\csharp33\HelloWorld\HelloWorld\bin\Debug\net7.0\HelloWorld.pdb
+Z:\Desktop\repos\csharp33\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.csproj.AssemblyReference.cache
+Z:\Desktop\repos\csharp33\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\repos\csharp33\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.AssemblyInfoInputs.cache
+Z:\Desktop\repos\csharp33\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.AssemblyInfo.cs
+Z:\Desktop\repos\csharp33\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.csproj.CoreCompileInputs.cache
+Z:\Desktop\repos\csharp33\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.dll
+Z:\Desktop\repos\csharp33\HelloWorld\HelloWorld\obj\Debug\net7.0\refint\HelloWorld.dll
+Z:\Desktop\repos\csharp33\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.pdb
+Z:\Desktop\repos\csharp33\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.genruntimeconfig.cache
+Z:\Desktop\repos\csharp33\HelloWorld\HelloWorld\obj\Debug\net7.0\ref\HelloWorld.dll
